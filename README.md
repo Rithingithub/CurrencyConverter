@@ -28,9 +28,7 @@ cd CurrencyConverter
 
 ### 2. Add your API key
 
-```
-echo "currency.api.key=<your_api_key_here>" > src/main/resources/application.properties
-```
+Replace `<your-api-key>` with your api key in `src\main\resources\application.properties`
 
 ### 3. Build and run
 
